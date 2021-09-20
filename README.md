@@ -1,6 +1,6 @@
-### Toby's Sample Time App
-
 # DCN 2662 - Lab #2
+
+### Toby's Sample Time App
 
 A Sample Time App using Flask.
 
