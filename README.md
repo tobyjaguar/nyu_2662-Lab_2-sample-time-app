@@ -1,6 +1,13 @@
-Sample App
+### Toby's Sample Time App
 
-Sample Python Flask application to showcase the steps of building and running a web server with Docker.
+# DCN 2662 - Lab #2
 
-Docker: https://www.docker.com/
-Flask documentation: https://flask.palletsprojects.com/en/1.1.x/
+A Sample Time App using Flask.
+
+Docker hub: `https://hub.docker.com/repository/docker/tobyjaguar/sample-time-app`
+
+To build: 
+
+`docker run -p 8080:8080 tobyjaguar/sample-time/app`
+
+
